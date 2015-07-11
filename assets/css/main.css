@@ -328,6 +328,11 @@ a:after {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
+#map {
+    font-weight: bold;
+    color: #fe6f72;
+}
+
 .btn-success {
     text-transform: uppercase;
     border: none;
